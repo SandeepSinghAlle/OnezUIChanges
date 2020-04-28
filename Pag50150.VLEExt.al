@@ -7,6 +7,7 @@ pageextension 50151 VLEUIExt extends "Vendor Ledger Entries"
             field("Grant Application Number"; "Grant Application Number")
             {
                 ApplicationArea = ALL;
+                Visible = true;
             }
         }
     }
